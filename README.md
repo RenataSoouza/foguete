@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width=65>
+<img src="https://media.giphy.com/media/em3xOyQhozmJfDlGRB/giphy.gif" width=65>
 </div>
 <h1 align="center">
   <a href="renatasoouza.github.io/foguete/" target="_blank">Aula 07 🔗  </a>
