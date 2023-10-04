@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width=65>
 </div>
 <h1 align="center">
-  <a href="" target="_blank">Aula 07 🔗  </a>
+  <a href="renatasoouza.github.io/foguete/" target="_blank">Aula 07 🔗  </a>
 </h1>
 
 ### 📖 Sobre
